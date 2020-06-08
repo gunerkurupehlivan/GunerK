@@ -37,7 +37,7 @@ text-decoration: none;
   width: 150px;
   float: left;
   font-size: 25px;
-  border: 40px;
+  border: 50px;
   margin-top: 5px;
   text-align: center;
 
@@ -54,5 +54,5 @@ text-decoration: none;
 .o{
 
   padding-top: 50px;
-  background-color:#1234;
+  background-color:#1555;
 }
